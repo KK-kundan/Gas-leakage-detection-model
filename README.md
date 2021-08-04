@@ -1,2 +1,2 @@
 # Gas-leakage-detection-model
-Implementing IOT in gas detection model
+Arduino code for gas detecting alarm system
